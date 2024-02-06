@@ -1,0 +1,13 @@
+h3 {
+    font-family: 'Bungee Spice', sans-serif;
+}
+
+.white {
+    color: white!important;
+}
+
+textarea {
+
+    width: 100%;
+    height: 200px;
+}
